@@ -1,0 +1,8 @@
+
+
+// | Property     | Meaning                              |
+// | ------------ | ------------------------------------ |
+// | value        | property ki value                    |
+// | writable     | value change ho sakti hai ya nahi    |
+// | enumerable   | loop me aayegi ya nahi               |
+// | configurable | delete / modify ho sakti hai ya nahi |
